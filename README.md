@@ -1,16 +1,46 @@
-# gemini_chatbot
+# Gemini ChatBot App - Flutter
 
-A new Flutter project.
+## Overview
+A ChatBot using Google Gemini API that can take input from the user and generate a response according to users prompt
+
+
+## Project Details
+```
+    Flutter Version: 3.19.0
+    Dart Version: 3.3.0
+```
+
+
+## Features
+
+* **Generate Response :** Genrate response according to the user prompt
+* **New Chat :** User can create a new chat 
+* **Delete Chat :** User can delete the chat
+
 
 ## Getting Started
+**Prerequisites**
+* Ensure you have Flutter installed on your machine. If not, follow the Flutter installation guide.
 
-This project is a starting point for a Flutter application.
+**installation**
 
-A few resources to get you started if this is your first Flutter project:
+* Clone the repository to your local machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  https://github.com/tulsieroyt/gemini_chatbot.git
+``` 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Setup firebase to your project 
+```bash
+  flutterfire configure
+```
+**Run you project**
+```bash
+  flutter run
+```
+
+Feel Free to ask me if you have any questions at tulsieroyt@gmail.com
+
+
+
+
