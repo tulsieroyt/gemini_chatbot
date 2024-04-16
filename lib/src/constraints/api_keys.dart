@@ -1,3 +1,3 @@
 class APIKey {
-  static const apiKey = 'AIzaSyB7T309oAEXa_RjUYFwMbgOOojxHoAPMBM';
+  static const apiKey = ' '; //Your API Key
 }
